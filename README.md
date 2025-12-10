@@ -1,9 +1,7 @@
-# Curso de Javascript do básico ao avançado
+<p>A intenção deste repositório é apenas armazenar meu desenvolvimento e aprendizado
+adquirido durante o curso do professor <a heref="https://github.com/luizomf" target="_blank">Luiz Otávio Miranda</a>. 
+</p>
+<p>Como observação eu resolvi criar um fork diretamente do <a href="https://github.com/luizomf/curso-js" target="_blank">repósitorio dele</a> a fim de atualizar
+meu desenvolvimento no curso, visto que eu parei o mesmo por um tempo. Diferente do repositório anterior eu vou deixar todos os desafios possiveis acessiveis por um HTML do Github pages.</p>
 
-Este é o repositório de todos os exemplos que usei no curso de 
-Javascript do básico ao avançado (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-
-As aulas não estão na ordem de criação e não na ordem criada automaticamente
-pela plataforma do curso.
-
-Bons estudos.
+<a href="" target="_blank">Visualização dos desafios.</a>
